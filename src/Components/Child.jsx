@@ -11,7 +11,7 @@ const handlsend = () =>{
     <div>
       <h1>hey {data}</h1>
 
-      <button onClick={handlsend}>add</button>
+      <button onClick={handlsend}>add ----monkey d luffyy</button>
 
     </div>
   )
